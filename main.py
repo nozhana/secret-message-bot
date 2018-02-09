@@ -1,7 +1,6 @@
 # IMPORT
 
-from telegram.ext import Updater, Dispatcher, CommandHandler, MessageHandler, \
-                        MessageHandler, Filters
+from telegram.ext import Updater, Dispatcher, CommandHandler, MessageHandler, MessageHandler, Filters
 
 # INITIALIZATION
 
