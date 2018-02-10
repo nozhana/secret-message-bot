@@ -31,4 +31,4 @@ dispatcher.add_handler(MessageHandler(Filters.text, send))
 
 # DEPLOY
 
-updater.start_polling()
+updater.start_polling(poll_interval=0.5)
